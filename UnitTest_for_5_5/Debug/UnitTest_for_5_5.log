@@ -1,0 +1,4 @@
+﻿  UnitTest_for_5_5.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 5_5\Laboratorna 5_5\Lab 5_5.cpp(14,2): warning C4552: '-': result of expression not used
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 5_5\UnitTest_for_5_5\UnitTest_for_5_5.cpp(17,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UnitTest_for_5_5.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 5_5\Debug\UnitTest_for_5_5.dll
